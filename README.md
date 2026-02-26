@@ -1,5 +1,5 @@
-# Ex02 Commercial Website
-## Date:26.02.2026
+##  Ex02 Commercial Website
+## Date: 26-02-2026
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -53,8 +53,6 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 index.html
 ```
-<!DOCTYPE html
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -90,6 +88,7 @@ index.html
     </footer>
 </body>
 </html>
+
 ```
 style.css
 ```
@@ -157,12 +156,11 @@ footer {
     padding: 15px 0;
     margin-top: 20px;
 }
+
 ```
-
-
-
 ## OUTPUT
-<img width="1316" height="885" alt="image" src="https://github.com/user-attachments/assets/529a7962-92ba-4739-9caf-c4934ebe87fe" />
+
+<img width="1316" height="885" alt="Screenshot 2025-08-11 181028" src="https://github.com/user-attachments/assets/83c961f0-9966-4b7b-8499-2fab0b307dfe" />
 
 
 ## RESULT
